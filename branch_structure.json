@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/agent-service-helmet",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/agent-service-helmet": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/agent-service-helmet",
+    "origin"
+  ]
+}
